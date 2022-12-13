@@ -1,5 +1,5 @@
 <img align="right" width="240" src="https://pbs.twimg.com/profile_images/1602485748715773953/bzK9ywav_400x400.jpg" />
-<h2>𝕱 𝕭̣𝖚̣𝖊̇𝖑̣𝖑̇𝖊̇𝖗 🌹/h2>
+<h2>𝕱 𝕭̣𝖚̣𝖊̇𝖑̣𝖑̇𝖊̇𝖗 🌹</h2>
 <ul>
 <li>bark</li>
 <li>bark</li>
