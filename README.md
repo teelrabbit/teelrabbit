@@ -3,9 +3,7 @@
 <ul>
 <li>bark</li>
 <li>bark</li>
-<li>I've developed <a href="https://github.com/XLabsProject/iw4x-client">IW4x</a>, <a href="https://github.com/XLabsProject/iw6x-client">IW6x</a> and <a href="https://github.com/XLabsProject/s1x-client">S1x</a> as part of <a href="https://xlabs.dev">X Labs</a></li>
-<li>I started working on my own <a href="https://github.com/momo5502/hypervisor">hypervisor</a> to assist with reverse engineering</li>
-<li>🐈 Cats > dogs 🐶</li>
+ <li>bark</li>
 </ul>
 
 <br>
