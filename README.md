@@ -16,9 +16,9 @@
   <a href="https://www.patreon.com/" alt="Patreon"><img src="https://img.shields.io/badge/Patreon-support-red.svg?logo=patreon"></a>
 </p>
 
-![teelrabbit's Stats](https://github-readme-stats.vercel.app/api?username=teelrabbit&theme=graywhite&show_icons=true&hide_border=true&count_private=true) 
-![teelrabbit's Streak](https://github-readme-streak-stats.herokuapp.com/?user=teelrabbit&theme=graywhite&hide_border=true) 
-![teelrabbit's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=teelrabbit&theme=graywhite&show_icons=true&hide_border=true&layout=compact)
-
-
+<div style="display: flex; justify-content: space-around; align-items: center;">
+  <img src="https://github-readme-stats.vercel.app/api?username=teelrabbit&theme=graywhite&show_icons=true&hide_border=true&count_private=true" style="flex: 1;">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=teelrabbit&theme=graywhite&hide_border=true" style="flex: 1;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=teelrabbit&theme=graywhite&show_icons=true&hide_border=true&layout=compact" style="flex: 1;">
+</div>
 
