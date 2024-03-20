@@ -15,7 +15,7 @@
 <a href="https://www.patreon.com/" alt="Patreon"><img src="https://img.shields.io/badge/Patreon-support-red.svg?logo=patreon"></a>
 </p>
 
-<div align="center">
+<div align="fill">
   <img src="https://github-readme-stats.vercel.app/api?username=teelrabbit&include_all_commits=true&theme=highcontrast&show_icons=true&count_private=true">
   <br />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=teelrabbit&langs_count=10&hide=html,css,makefile,batchfile&theme=highcontrast">
