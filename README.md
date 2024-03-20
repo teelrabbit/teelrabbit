@@ -11,11 +11,11 @@
 <h2>Support me</h2>
 
 <p align="center">
-<a href="https://paypal.me/officialxuntitled" alt="Paypal"><img src="https://img.shields.io/badge/PayPal-support-blue.svg?logo=paypal"></a>
-<a href="https://www.patreon.com/" alt="Patreon"><img src="https://img.shields.io/badge/Patreon-support-red.svg?logo=patreon"></a>
+  <a href="https://paypal.me/officialxuntitled" alt="Paypal"><img src="https://img.shields.io/badge/PayPal-support-blue.svg?logo=paypal"></a>
+  <a href="https://www.patreon.com/" alt="Patreon"><img src="https://img.shields.io/badge/Patreon-support-red.svg?logo=patreon"></a>
 </p>
 
-<div align="center">
+<div align="center" style="width: 800px;"> <!-- Adjust width as needed -->
   <img src="https://github-readme-stats.vercel.app/api?username=teelrabbit&include_all_commits=true&theme=highcontrast&show_icons=true&count_private=true">
   <br />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=teelrabbit&langs_count=10&hide=html,css,makefile,batchfile&theme=highcontrast">
