@@ -8,15 +8,15 @@
 
 <br>
 
+
 <h2>Support me</h2>
 
 <p align="center">
-<a href="https://paypal.me/officialxuntitled" alt="Paypal"><img src="https://img.shields.io/badge/PayPal-support-blue.svg?logo=paypal"></a>
-<a href="https://www.patreon.com/" alt="Patreon"><img src="https://img.shields.io/badge/Patreon-support-red.svg?logo=patreon"></a>
+  <a href="https://paypal.me/officialxuntitled" alt="Paypal"><img src="https://img.shields.io/badge/PayPal-support-blue.svg?logo=paypal"></a>
+  <a href="https://www.patreon.com/" alt="Patreon"><img src="https://img.shields.io/badge/Patreon-support-red.svg?logo=patreon"></a>
 </p>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=teelrabbit&include_all_commits=true&theme=highcontrast&show_icons=true&count_private=true">
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=teelrabbit&langs_count=10&hide=html,css,makefile,batchfile&theme=highcontrast">
-</div>
+![teelrabbit's Stats](https://github-readme-stats.vercel.app/api?username=teelrabbit&theme=graywhite&show_icons=true&hide_border=true&count_private=true) 
+![teelrabbit's Streak](https://github-readme-streak-stats.herokuapp.com/?user=teelrabbit&theme=graywhite&hide_border=true) 
+
+
